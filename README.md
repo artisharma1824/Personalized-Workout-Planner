@@ -21,5 +21,4 @@ A interactive, rule-based Python Command Line Interface (CLI) application design
 
 ---
 
-## 🧠 System Logic & Architecture
 
